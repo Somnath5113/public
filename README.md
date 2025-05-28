@@ -23,8 +23,9 @@ This project provides tools for automatic number plate detection and recognition
 ## Installation
 
 Clone the repository
+```sh
 cd detect/
-
+```
 
 Install dependencies:
 ```sh
